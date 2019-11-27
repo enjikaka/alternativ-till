@@ -1,16 +1,16 @@
 {
-  "title": "Your Blog Name",
-  "url": "https://myurl.com/",
-  "description": "I am writing about my experiences as a naval navel-gazer.",
+  "title": "Alternativ Till",
+  "url": "https://alternativ-till.jeremy.se/",
+  "description": "Hitta miljövänliga alternativ till dina vardagliga produkter.",
   "feed": {
-    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "subtitle": "Hitta miljövänliga alternativ till dina vardagliga produkter.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://alternativ-till.jeremy.se/feed/feed.xml",
+    "id": "https://alternativ-till.jeremy.se/"
   },
   "author": {
-    "name": "Your Name Here",
-    "email": "youremailaddress@example.com"
+    "name": "Jeremy Karlsson",
+    "email": "karlsson@jeremy.se"
   }
 }
